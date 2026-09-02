@@ -149,10 +149,18 @@ int main(int argc, char *argv[])
 
 ## OUTPUT
 
+1.To Write a C program that illustrates files copying
 
 <img width="304" height="264" alt="image" src="https://github.com/user-attachments/assets/a833803b-ec45-4869-baed-975ccf545780" />
 
 
+
+
+
+
+
+
+2.To Write a C program that illustrates files locking
 
 <img width="471" height="599" alt="image" src="https://github.com/user-attachments/assets/99a3b143-9c6d-4984-9727-1adfe7822534" />
 
