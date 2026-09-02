@@ -22,7 +22,7 @@ Execute the C Program for the desired output.
 ## 1.To Write a C program that illustrates files copying 
 
 ```
-include <unistd.h>
+#include <unistd.h>
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <stdlib.h>
@@ -73,7 +73,7 @@ int main(int argc, char *argv[])
 ## 2.To Write a C program that illustrates files locking
 
 ```
-include <fcntl.h>
+#include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
